@@ -37,16 +37,3 @@ git rebase écrase tout les commit fait dans le projet
 
 git remote gère en ensemble de depot 
 ``git remote ``
-
-git switch permet de changer de branche 
-`` git switch nomDuDossier`` 
-
-cd changer de repertoire 
-`` cd nomRepertoire ``
-
-git remote  gérer un ensemble de dépot suivis
-``git remote``
-
-git checkout bascule sur une autre branche ou restaure des fichier  de l'arbre de travail
-``git checkout``
-``git checkout -- quiet`` permet de suprimer les message d'état 
