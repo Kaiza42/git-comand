@@ -1,11 +1,12 @@
-# ceci seras ma référance Git 
+# ceci seras ma référance Git bash
 
 git clone permet de cloner un repertoire de github avec un https 
 
 commme ceci `git clone https://github.com/libgit2/libgit2`
 
 git init permet de crée un depot ou de vider un depot existant 
- `` git init``
+ `` git init`` <br>
+`` git init --quiet`` n'affiche que les erreure et alerte le reste est surpimé
 
  git add  ajoute le contenue de fichier a l'index 
  ``git add``
@@ -36,3 +37,16 @@ git rebase écrase tout les commit fait dans le projet
 
 git remote gère en ensemble de depot 
 ``git remote ``
+
+git switch permet de changer de branche 
+`` git switch nomDuDossier`` 
+
+cd changer de repertoire 
+`` cd nomRepertoire ``
+
+git remote  gérer un ensemble de dépot suivis
+``git remote``
+
+git checkout bascule sur une autre branche ou restaure des fichier  de l'arbre de travail
+``git checkout``
+``git checkout -- quiet`` permet de suprimer les message d'état 
