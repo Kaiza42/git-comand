@@ -90,6 +90,8 @@ avec ``rm -r nomDuRepertoire`` tu peut surpimer un repertoire
 
 ``ls > nomDuFichier`` cette permet que ce que montre la comande ``ls`` ne le montre pas mais sois transférer dans le fichier ``nomDuFichier`` Si le fichier en question n'est pas créer la comande le créer et metras le contenue a l'interieur
 
+``ls`` permet de voir le contenue du repertoire ou tu te trouve 
+
 
 
 
