@@ -1,5 +1,7 @@
 # ceci seras ma référance Git bash
 
+Sorry pour les faute de frappe Parfois mes phrases/Mot serons pas énormément compréhensible le but est que je me comprenne moi meme et rapidement et non que passe 8 heure a comprendre mes note.
+
 git clone permet de cloner un repertoire de github avec un https 
 
 commme ceci `git clone https://github.com/libgit2/libgit2`
@@ -50,7 +52,7 @@ Pour changer directmeent d'un repertoire a un autre sans devoir faire TOUT le ch
 ``cd`` te permet de retourner a C:
 
 
-``nano NomDuFichier`` pour je pense modifier le fichier j'ai pas encor situé sa 
+``nano NomDuFichier`` <https://raspberrytips.fr/raccourcis-nano-raspberry-pi/> se site explique son utilisation je vais m'y pencher plus tard
 
 ``code NomDuFichier`` et sa m'ouvre une page vscode une nouvelle qui na aucun rapport avec la page ou je suis
 
@@ -62,8 +64,33 @@ Pour changer directmeent d'un repertoire a un autre sans devoir faire TOUT le ch
 ``Touch nomDuFichier`` a la meme fonction que notepad sa créer un fichier de préférence utiliser touch sur gitbash
 
 ``mv nomDuFichier nomDuRepertoire`` sa c'est déplacer des fichier dans différent dossier  
+autre exemple tu peut utiliser mv comme ceci 
+
+``mv nomDuRepertoire/nomDufichier .`` pour dire déplace le fichier de ce repertoire ICI 
+
+si par exemple tu souhaite déplacer TOUT le contenue d'un répertoire a un autre tu peut utiliser <br>
+``mv nomDuRepertoire/* nomDuRepertoire`` l'étoile permet de selectionner TOUT ce que contient le contenue du repertoire que tu souhaite déplacer 
 
 ``cp nomDufichier nomDuRepertoire`` cp permet de copier un fichier et de déplacer la copie dans un autre dossier 
+
+si par exemple tu souhaite copier un repertoire avec son contenue  tu peut utiliser <br>
+``cp -r nomDuRepertoire nomDeLaCopieDuRepertoire``
+sa va copier tout le continue du repertoire a l'emplacement ou tu es <br>
+le ``-r`` permet de dire que tu souhaite interagir  avec un repertoire
+
+si tu ne te souvien pas de la comande entiere tu peut taper <br>
+``m*`` en appuyant sur ``tab`` a plusieur reprise tu peut voir que différente commande comencant par ``m`` vont s'afficher continue a appuyer sur tab jusqu'a tomber sur celle qui t'interesse
+
+Avec ``rm nomDuFichier`` tu peut suprimer des fichier <br>
+avec ``rm -r nomDuRepertoire`` tu peut surpimer un repertoire
+
+
+
+ 
+
+
+
+
 
 
 
