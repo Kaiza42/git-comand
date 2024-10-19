@@ -61,7 +61,7 @@ Pour changer directmeent d'un repertoire a un autre sans devoir faire TOUT le ch
 
 ``notepad nomDuFichier`` permet de créer un fichier
 
-``Touch nomDuFichier`` a la meme fonction que notepad sa créer un fichier de préférence utiliser touch sur gitbash
+``touch nomDuFichier`` a la meme fonction que notepad sa créer un fichier de préférence utiliser touch sur gitbash
 
 ``mv nomDuFichier nomDuRepertoire`` sa c'est déplacer des fichier dans différent dossier  
 autre exemple tu peut utiliser mv comme ceci 
@@ -83,6 +83,17 @@ si tu ne te souvien pas de la comande entiere tu peut taper <br>
 
 Avec ``rm nomDuFichier`` tu peut suprimer des fichier <br>
 avec ``rm -r nomDuRepertoire`` tu peut surpimer un repertoire
+
+``cat nomDuFichier`` permet de voir le contenue d'un fichier
+
+``less nomDuFichier`` permet de voir le contenue d'un fichier MAIS dans une "autre fenetre" et avec les fleche vers le bas et vers le haut vous pouvez aller vers le haut et le bas pour voir le contenue.<br> pour revenir en arriere press ``q`` une fois suffis
+
+``ls > nomDuFichier`` cette permet que ce que montre la comande ``ls`` ne le montre pas mais sois transférer dans le fichier ``nomDuFichier`` Si le fichier en question n'est pas créer la comande le créer et metras le contenue a l'interieur
+
+
+
+
+
 
 
 
