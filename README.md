@@ -92,7 +92,7 @@ avec ``rm -r nomDuRepertoire`` tu peut surpimer un repertoire
 
 ``ls`` permet de voir le contenue du repertoire ou tu te trouve 
 
-ejfeijfbejkf
+
 
 
 
