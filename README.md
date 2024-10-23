@@ -39,7 +39,7 @@ git rebase écrase tout les commit fait dans le projet
 
 git remote gère en ensemble de depot 
 ``git remote ``
-
+``git remote -v `` voir les pull possible 
 on peut aussi utiliser les comande comme 
 ``mkdir`` pour créer un repertoire 
 ou ``rmdir`` pour suprimé un repertoire
