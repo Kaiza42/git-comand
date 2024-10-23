@@ -38,8 +38,8 @@ git rebase écrase tout les commit fait dans le projet
 ``git rebase``
 
 git remote gère en ensemble de depot 
-``git remote ``
-``git remote -v `` voir les pull possible 
+``git remote `` <br>
+``git remote -v `` voir les pull possible <br>
 ``git remote add upstream urlGithub`` pour lié en upstream un repo github  un autre depot<br>
 ``git remote remove upstream`` surpimer upstream
 
