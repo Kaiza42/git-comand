@@ -40,9 +40,14 @@ git rebase écrase tout les commit fait dans le projet
 git remote gère en ensemble de depot 
 ``git remote ``
 ``git remote -v `` voir les pull possible 
+``git remote add upstream urlGithub`` pour lié en upstream un repo github  un autre depot<br>
+``git remote remove upstream`` surpimer upstream
+
 on peut aussi utiliser les comande comme 
 ``mkdir`` pour créer un repertoire 
-ou ``rmdir`` pour suprimé un repertoire
+
+
+``rmdir`` pour suprimé un repertoire
 
 
 et ``cd nomDuRepertoire`` pour avancer dans ce repertoire
