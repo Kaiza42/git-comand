@@ -97,6 +97,9 @@ avec ``rm -r nomDuRepertoire`` tu peut surpimer un repertoire
 
 ``ls`` permet de voir le contenue du repertoire ou tu te trouve 
 
+``echo`` permet d'ajouter une ligne dans une ligne de comande exemple 
+``echo Hello world>>MonFichier.txt``
+
 
 
 
